@@ -1,9 +1,9 @@
-.pie {
+.pie-img {
 	height : 200px;
-	background-image: url(https://images.unsplash.com/photo-1476887334197-56adbf254e1a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=eb6837867a480f94b783cfe557318a59&auto=format&fit=crop&w=634&q=80);
+	background-image:"images/pie.jpg";
 	background-size: cover !important;
 	position: relative;
-	color: white;
+	color: white !important;
 }
 
 .card-pie {
