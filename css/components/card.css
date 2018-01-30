@@ -13,3 +13,11 @@
 	bottom: 15px;
 	right: 15px;
 }
+
+.card-text{
+	width : 20px;
+	color: black;
+	position: absolute;
+	bottom:10px;
+	left: 10px;
+}
