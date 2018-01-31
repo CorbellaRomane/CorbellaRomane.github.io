@@ -47,7 +47,20 @@ body {
 	right: 15px;
 }
 
+.flex{
+	height: 500px;
+	background-color: #2D171A;
+	width : 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
 
-
+.flex-item{
+	height: 100px;
+	background-color: white;
+	width: 30px;
+	border : solid 2px black;
+}
   
 
